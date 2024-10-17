@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: a4600c8ffc17466459e17f53a6d9961d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 178-1784687_space-invaders-png_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1034
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7fe9ff443d96e42a68aaccb72abb59
+      internalID: -2119507853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 178-1784687_space-invaders-png_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1034
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6435b2199280f654cb7c0299dc5a4184
+      internalID: 736217558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 178-1784687_space-invaders-png_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 797
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a217df9e386163744801d7e1393ba931
+      internalID: 196374278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      178-1784687_space-invaders-png_0: 900318526
+      178-1784687_space-invaders-png_1: -2119507853
+      178-1784687_space-invaders-png_10: 1209894621
+      178-1784687_space-invaders-png_11: -1304871849
+      178-1784687_space-invaders-png_12: 755212820
+      178-1784687_space-invaders-png_13: -158789723
+      178-1784687_space-invaders-png_14: -1949523095
+      178-1784687_space-invaders-png_15: 713021928
+      178-1784687_space-invaders-png_16: 1215009183
+      178-1784687_space-invaders-png_17: -1102330503
+      178-1784687_space-invaders-png_18: -287046770
+      178-1784687_space-invaders-png_19: 82749435
+      178-1784687_space-invaders-png_2: 736217558
+      178-1784687_space-invaders-png_20: 1740901851
+      178-1784687_space-invaders-png_21: -798700842
+      178-1784687_space-invaders-png_22: 196374278
+      178-1784687_space-invaders-png_23: 1826111693
+      178-1784687_space-invaders-png_24: -126286717
+      178-1784687_space-invaders-png_25: 1278529251
+      178-1784687_space-invaders-png_26: -1297600755
+      178-1784687_space-invaders-png_27: 748313477
+      178-1784687_space-invaders-png_28: 1750609543
+      178-1784687_space-invaders-png_29: -888417681
+      178-1784687_space-invaders-png_3: -185502299
+      178-1784687_space-invaders-png_30: -1623598638
+      178-1784687_space-invaders-png_31: 427341368
+      178-1784687_space-invaders-png_32: 1711334774
+      178-1784687_space-invaders-png_33: 729420104
+      178-1784687_space-invaders-png_34: 144353252
+      178-1784687_space-invaders-png_35: -1768911840
+      178-1784687_space-invaders-png_36: 27840829
+      178-1784687_space-invaders-png_37: 1049407100
+      178-1784687_space-invaders-png_38: -1103537216
+      178-1784687_space-invaders-png_39: 829168557
+      178-1784687_space-invaders-png_4: -861247007
+      178-1784687_space-invaders-png_40: 24154736
+      178-1784687_space-invaders-png_41: 770288922
+      178-1784687_space-invaders-png_42: 494042383
+      178-1784687_space-invaders-png_43: -1851808210
+      178-1784687_space-invaders-png_44: 254650620
+      178-1784687_space-invaders-png_45: -1625289957
+      178-1784687_space-invaders-png_46: 1028876087
+      178-1784687_space-invaders-png_47: -394235795
+      178-1784687_space-invaders-png_48: 1294845283
+      178-1784687_space-invaders-png_49: -1869030895
+      178-1784687_space-invaders-png_5: -197345610
+      178-1784687_space-invaders-png_50: -1545668602
+      178-1784687_space-invaders-png_51: -336211781
+      178-1784687_space-invaders-png_52: 1380009325
+      178-1784687_space-invaders-png_53: 934138457
+      178-1784687_space-invaders-png_54: -338370082
+      178-1784687_space-invaders-png_55: -13348416
+      178-1784687_space-invaders-png_56: 1557220380
+      178-1784687_space-invaders-png_57: 1034771742
+      178-1784687_space-invaders-png_58: -1149131556
+      178-1784687_space-invaders-png_59: -286633952
+      178-1784687_space-invaders-png_6: 344459615
+      178-1784687_space-invaders-png_60: 692330746
+      178-1784687_space-invaders-png_61: 1596079670
+      178-1784687_space-invaders-png_62: -794170290
+      178-1784687_space-invaders-png_63: 1670466589
+      178-1784687_space-invaders-png_64: -214355229
+      178-1784687_space-invaders-png_65: 262954078
+      178-1784687_space-invaders-png_66: -613540238
+      178-1784687_space-invaders-png_67: -2089391922
+      178-1784687_space-invaders-png_68: 2083413526
+      178-1784687_space-invaders-png_69: 2004305603
+      178-1784687_space-invaders-png_7: -1616665134
+      178-1784687_space-invaders-png_70: -1342797761
+      178-1784687_space-invaders-png_71: -1407200177
+      178-1784687_space-invaders-png_72: 1517158297
+      178-1784687_space-invaders-png_73: 403472953
+      178-1784687_space-invaders-png_74: -953707612
+      178-1784687_space-invaders-png_75: 2109602650
+      178-1784687_space-invaders-png_76: 796471692
+      178-1784687_space-invaders-png_77: -1165383635
+      178-1784687_space-invaders-png_78: -902905339
+      178-1784687_space-invaders-png_79: 1063939504
+      178-1784687_space-invaders-png_8: -663378511
+      178-1784687_space-invaders-png_80: -975250672
+      178-1784687_space-invaders-png_81: 1469926857
+      178-1784687_space-invaders-png_9: -1932810857
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
